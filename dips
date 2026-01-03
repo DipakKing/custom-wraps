@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dipak | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="hero-section">
+        <div class="overlay"></div>
+        <div class="content">
+            <h1 class="main-name">DIPAK</h1>
+            <p class="tagline">Protector | Explorer | Creator</p>
+        </div>
+    </header>
+
+    <main class="gallery-container">
+        <section class="bio">
+            <h2>The Legend</h2>
+            <p>Embodying the power of ancient deities and the mystery of the cosmos.</p>
+        </section>
+    </main>
+
+</body>
+</html>
